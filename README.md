@@ -1,6 +1,8 @@
 # 702 Project Public
 THE 702 PROJECT
 
+![m2-res_1080p-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/db448de0-ab64-47db-9326-c055c813400e)
+
 ----------------------------------------------------------------------------------------------------
 
 ### This is a personal project about a 11 inch 2-in-1 Windows/iPad OS laptop. 
