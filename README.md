@@ -20,6 +20,7 @@ A side: [ARM side]
   - iPad(monitor, webcam, speaker, microphone)
   - ThinkPad stuff (ThinkLight, lid lock)
   - Structure (shell, lock, latch)
+
 B side: [x86 side]
   - Framework 13 stuff (mainboard + battery)
   - Keyboard (expansion system, PCB)
