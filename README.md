@@ -1,11 +1,9 @@
 # 702 Project Public
 THE 702 PROJECT
 
-Project page for the 702 Project. 
-
 ----------------------------------------------------------------------------------------------------
 
-This is a personal project about a 11 inch 2-in-1 Windows/iPad OS laptop. 
+### This is a personal project about a 11 inch 2-in-1 Windows/iPad OS laptop. 
 Framework + iPad + butterfly keyboard originally by ThinkPad 701c
 OR you can call it the compact personal computing unit 702. 
 
@@ -16,12 +14,12 @@ To be the ideal, it needs to have the best hardware and software the current wor
 
 The 702 laptop is physically and logically divided into two halves:
 
-A side: [ARM side]
+### A side: [ARM side]
   - iPad(monitor, webcam, speaker, microphone)
   - ThinkPad stuff (ThinkLight, lid lock)
   - Structure (shell, lock, latch)
 
-B side: [x86 side]
+### B side: [x86 side]
   - Framework 13 stuff (mainboard + battery)
   - Keyboard (expansion system, PCB)
   - I/O (ports, other PCB)
@@ -32,20 +30,24 @@ The 2 sides will be linked physically by ports and locks. They will be linked on
 
 ----------------------------------------------------------------------------------------------------
 
-Responses on...
+### Responses on...
 
 Being mechanical:
+
 The butterfly keyboard was used because first, I love ThinkPads and the one on 701C was too classic to not replicate. Second, there really aren't much space for a decent sized keyboard on the 11inch chassis. A plam rest was later added after the first keyboard prototype was made in 2024 for better ergonomics. The palm rest is also in sync with the motion of the keyboard to house the keyswitches below when the lid is closed and be at the right height when typing. 
 
 Using Framework:
+
 The Framework 13 mainboard is used as motherboard because it was the only open source one available with the best performance figure and upgradability. I do not want to build another "laptop" / toy with a pi and call it a hackers tool. I am building my work station here, serious stuff. I need computing power as well as a windows environment to work. Also fitting something small into a bigger enclosure just isn't challenging.. right..?
 
 How to use this weird thing:
+
 When using the 702 project you could choose between the 2 devices/systems. 
 Tablet mode (iPad): For note taking, sketching, reading, or anything more handy on the iPad (content consumption), you could take the lid off and use it as an iPad. 
 Laptop mode (Framework): If tasks require a Windows environment (productivity), plug the iPad back on to the base and proceed to use as a normal laptop. 
 
 Some future ideas:
+
 If I can make the iPad as the monitor for the PC, can I use the keyboard on the PC for the iPad?
 If audio and video data can be transmitted between teh 2 devices, can I transfer files as well? (Airdrop for PC)
 If the iPad can be wired to the PC to be its monitor, can I do it wirelessly?
@@ -60,12 +62,12 @@ The project is currently under construction and in the early stage of concept pr
 
 ----------------------------------------------------------------------------------------------------
 
-Progress will be posted below. 
+Progress will be posted in the discussion (weekly update). Some milestones will be posted here.
 
 20260307
 An overview picture of the 702 project. [Early stage master cad]
 
-<img width="1397" height="1164" alt="Screenshot 2026-01-30 171600" src="https://github.com/user-attachments/assets/10a0a018-b842-43b5-997d-4e68d3a3e544" />
+<img width="1397" height="1164" alt="Screenshot 2026-01-30 171600" src="https://github.com/user-attachments/assets/10a0a018-b842-43b5-997d-4e68d3a3e544" style="width:70%" />
 
 
 ----------------------------------------------------------------------------------------------------
