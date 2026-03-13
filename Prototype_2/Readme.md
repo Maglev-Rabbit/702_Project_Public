@@ -5,7 +5,20 @@ This is the actual 702 case and keyboard.
 This is what happens inside a butterfly keyboard. At least I think it's what happens..
 Apparantly no one every opened up the og 701c keyboard so I had to guess. 
 
-This contains 
+**This contains (currently):**
+-----------------
+
+Prototype 2.1
+
+1. Case
+2. Fill
+3. Keyboard assembly (rotator, transmission, case, keyboard bases)
+4. Palm rest assembly (subframe, transmission, slider, case, palm rest top)
+5. Rail plate
+
+<br>
+
+**This should ultimate contain:** 
 -----------------
 
 ## Case and chassis:
