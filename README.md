@@ -6,6 +6,10 @@ THE 702 PROJECT
 ----------------------------------------------------------------------------------------------------
 
 ### This is a personal project about a 11 inch 2-in-1 Windows/iPad OS laptop. 
+
+Check for more pictures and videos here on my reddit: https://www.reddit.com/user/Upset_Thanks_2049/.
+<br>
+
 Framework + iPad + butterfly keyboard originally by ThinkPad 701c
 OR you can call it the compact personal computing unit 702. 
 
@@ -67,6 +71,7 @@ The project is currently under construction and in the early stage of concept pr
 Progress will be posted in the discussion (weekly update). Some milestones will be posted here.
 
 20260307
+<br>
 An overview picture of the 702 project. [Early stage master cad]
 
 <img width="1397" height="1164" alt="Screenshot 2026-01-30 171600" src="https://github.com/user-attachments/assets/10a0a018-b842-43b5-997d-4e68d3a3e544" style="width:70%" />
@@ -74,6 +79,14 @@ An overview picture of the 702 project. [Early stage master cad]
 
 ----------------------------------------------------------------------------------------------------
 
+20260421
+<br>
+Palm rest and keyboard works with the lid now. 
+
+https://github.com/user-attachments/assets/bd207dfa-36b0-4bc8-813f-1e0e5d312ebb
+
+
+----------------------------------------------------------------------------------------------------
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
