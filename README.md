@@ -83,6 +83,7 @@ An overview picture of the 702 project. [Early stage master cad]
 <br>
 Palm rest and keyboard works with the lid now. 
 
+https://github.com/user-attachments/assets/3c5cc1b6-9316-472c-9ac1-574120893e4c
 
 
 
